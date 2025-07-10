@@ -86,6 +86,7 @@ ul.styled{
   color: white;
   transition: 0.3s ease-in-out;
 }
+
 #btn:hover{
   background-color: white;
   color: #16a085;
